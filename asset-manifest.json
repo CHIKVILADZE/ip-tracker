@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ip-tracker/static/css/main.340775af.css",
+    "main.js": "/ip-tracker/static/js/main.c7e7202c.js",
+    "static/media/img.png": "/ip-tracker/static/media/img.a60a3c85aa8b88aac4b7.png",
+    "index.html": "/ip-tracker/index.html",
+    "static/media/arrow.svg": "/ip-tracker/static/media/arrow.2eaaa5ee3602d5aa14a2dba69e9fb7a0.svg",
+    "main.340775af.css.map": "/ip-tracker/static/css/main.340775af.css.map",
+    "main.c7e7202c.js.map": "/ip-tracker/static/js/main.c7e7202c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.340775af.css",
+    "static/js/main.c7e7202c.js"
+  ]
+}
